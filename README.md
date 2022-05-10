@@ -8,7 +8,7 @@ By [Rahul Gorai](https://github.com/RahulGorai0206)
 
 ---------------------------------------------------------------------------------
 
-### Downloads Count
+## Downloads Count
 
 *TOTAL DOWNLOADS*
 
