@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------
 
-### Maintained for REDMI NOTE 8 / ginkgo
+### Maintained for REDMI NOTE 8 / 8T (ginkgo/willow)
 
 [Rahul Gorai](https://github.com/RahulGorai0206)
 
