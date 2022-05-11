@@ -14,3 +14,4 @@ By [Rahul Gorai](https://github.com/RahulGorai0206)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/RahulGorai0206/OTA/total.svg)](https://github.com/RahulGorai0206/OTA/releases)
 
+![Github Releases (by Release)](https://img.shields.io/github/downloads/RahulGorai0206/OTA/lineage-19.1-FORK/total.svg)](https://github.com/RahulGorai0206/OTA/releases)
